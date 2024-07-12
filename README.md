@@ -7,5 +7,6 @@ El proyecto se basa en un menu interactivo por medio de alert()'s e input()'s, q
       d) Editar o modificar algun nombre de la lista de "tipos de sushi".
       e) Visualizar como queda finalmente la tabla de sushi y sus precios.
       f) Salir.
+      
   3- Salir del menu interactico.
   4- Cualquier tipo de opcion no valida fue identificada, y se arreglo cualqueir tipo de problema que podrian haber ocasionado.
